@@ -1,0 +1,16 @@
+C:\Users\Pc-01\AppData\Local\Temporary Projects\gestion tequte\bin\Debug\gestion tequte.exe
+C:\Users\Pc-01\AppData\Local\Temporary Projects\gestion tequte\bin\Debug\gestion tequte.pdb
+C:\Users\Pc-01\AppData\Local\Temporary Projects\gestion tequte\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc-01\AppData\Local\Temporary Projects\gestion tequte\obj\Debug\gestion_tequte.Form1.resources
+C:\Users\Pc-01\AppData\Local\Temporary Projects\gestion tequte\obj\Debug\gestion_tequte.Properties.Resources.resources
+C:\Users\Pc-01\AppData\Local\Temporary Projects\gestion tequte\obj\Debug\gestion tequte.csproj.GenerateResource.Cache
+C:\Users\Pc-01\AppData\Local\Temporary Projects\gestion tequte\obj\Debug\gestion tequte.exe
+C:\Users\Pc-01\AppData\Local\Temporary Projects\gestion tequte\obj\Debug\gestion tequte.pdb
+E:\miage\project C#\gestion tequte\gestion tequte\obj\Debug\gestion tequte.exe
+E:\miage\project C#\gestion tequte\gestion tequte\obj\Debug\gestion tequte.pdb
+E:\miage\project C#\gestion tequte\gestion tequte\bin\Debug\gestion tequte.exe
+E:\miage\project C#\gestion tequte\gestion tequte\bin\Debug\gestion tequte.pdb
+E:\miage\project C#\gestion tequte\gestion tequte\obj\Debug\ResolveAssemblyReference.cache
+E:\miage\project C#\gestion tequte\gestion tequte\obj\Debug\gestion_tequte.Form1.resources
+E:\miage\project C#\gestion tequte\gestion tequte\obj\Debug\gestion_tequte.Properties.Resources.resources
+E:\miage\project C#\gestion tequte\gestion tequte\obj\Debug\gestion tequte.csproj.GenerateResource.Cache
